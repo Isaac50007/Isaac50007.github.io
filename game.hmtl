@@ -1,1 +1,6 @@
-
+<!DOCTYPE hmtl>
+<hmtl>
+        <head>
+                 <link rel="stylesheet " href="stylesheet.css">
+        <body>
+                 <ul> Games you can play
