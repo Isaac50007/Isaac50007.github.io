@@ -1,14 +1,10 @@
-
-}
-ul(
-list-styletype-: none
-background#f1f1f1;
+<!DOCTYPE html>
 <html>
 <head>
 <style>
-body  {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdPUZA7DeNh8J5VVSdH8t-SuTZn8wRp4oreSmjnz2rPnZwbAO");
-    
+body {
+    background-color: red;
+}
 </style>
 </head>
 <body>
