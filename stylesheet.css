@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-	<body>
-background-color: red;
+<head>
+<style>
+body {
+    background-color: red;
 }
-<body>
 </style>
 </head>
 <body>
