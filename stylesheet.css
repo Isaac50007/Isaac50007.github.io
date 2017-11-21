@@ -2,10 +2,15 @@
 <html>
 <head>
 <style>
-body {
-    background-color: red;
-}
-</style>
+html {
+    height 100%
+    body{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlK4m-SAWzYnXFQoIK7p8TSwH9yH51SHpGkis4EI6lU-3PWhgYA.jpg");
+        
+        background-postion: center center ;
+        
+        background-size : cover ;
+ </style>
 </head>
 <body>
 
